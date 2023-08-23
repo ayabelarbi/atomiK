@@ -11,6 +11,8 @@ Together, these features enhance the capabilities of our DEX, providing users wi
 
 Danny Ba - Dannprinc#2842 - @dannyba10
 
+Aya Belarbi - @b0xaya
+
 For the Atomik - cross chain atomic swap we have 2 smart contract :
 Repository:
 https://github.com/AtomicZK/atomiczk-protocol/tree/main/leo
